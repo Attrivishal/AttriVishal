@@ -5,7 +5,7 @@
 
 <!-- Title & Tagline -->
 <h3 style="color: #1e40af; margin: 20px 0 10px; font-weight: 600;">
-Frontend Engineer • Cloud & DevOps Specialist
+Frontend Engineer • Cloud & DevOps Enthusiast
 </h3>
 
 <p style="color: #64748b; max-width: 800px; margin: 0 auto 20px; line-height: 1.6;">
