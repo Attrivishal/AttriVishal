@@ -181,63 +181,15 @@ Experienced **Frontend Engineer** with expertise in **React, Angular, and modern
 
 ---
 
-## 📊 Skill Level Indicators
+## 🛠 What I Can Build
 
-<div style="margin: 30px 0;">
-
-**Frontend Technologies**
-<div style="background: #e2e8f0; border-radius: 10px; padding: 15px; margin: 10px 0;">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
-    <span>React</span>
-    <span>90%</span>
-  </div>
-  <div style="height: 8px; background: #cbd5e1; border-radius: 4px; overflow: hidden;">
-    <div style="width: 90%; height: 100%; background: #1e40af;"></div>
-  </div>
-</div>
-
-<div style="background: #e2e8f0; border-radius: 10px; padding: 15px; margin: 10px 0;">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
-    <span>Angular</span>
-    <span>85%</span>
-  </div>
-  <div style="height: 8px; background: #cbd5e1; border-radius: 4px; overflow: hidden;">
-    <div style="width: 85%; height: 100%; background: #dc2626;"></div>
-  </div>
-</div>
-
-**Cloud & DevOps**
-<div style="background: #e2e8f0; border-radius: 10px; padding: 15px; margin: 10px 0;">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
-    <span>AWS</span>
-    <span>80%</span>
-  </div>
-  <div style="height: 8px; background: #cbd5e1; border-radius: 4px; overflow: hidden;">
-    <div style="width: 80%; height: 100%; background: #f97316;"></div>
-  </div>
-</div>
-
-<div style="background: #e2e8f0; border-radius: 10px; padding: 15px; margin: 10px 0;">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
-    <span>Docker</span>
-    <span>85%</span>
-  </div>
-  <div style="height: 8px; background: #cbd5e1; border-radius: 4px; overflow: hidden;">
-    <div style="width: 85%; height: 100%; background: #0ea5e9;"></div>
-  </div>
-</div>
-
-<div style="background: #e2e8f0; border-radius: 10px; padding: 15px; margin: 10px 0;">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
-    <span>Kubernetes</span>
-    <span>75%</span>
-  </div>
-  <div style="height: 8px; background: #cbd5e1; border-radius: 4px; overflow: hidden;">
-    <div style="width: 75%; height: 100%; background: #2563eb;"></div>
-  </div>
-</div>
-
-</div>
+- 🚀 Production-ready frontend dashboards (React / Angular)
+- ☁️ Cloud-deployed applications on AWS
+- 🐳 Dockerized backend services
+- ☸️ Kubernetes-based workloads
+- 📊 Real-time monitoring & system metrics
+- 💰 AWS cost optimization tools
+- 🔄 CI/CD pipelines with GitHub Actions
 
 ---
 
