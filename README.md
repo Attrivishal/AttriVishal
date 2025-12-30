@@ -14,7 +14,7 @@ Building scalable applications with React, Angular, and cloud technologies
 
 <!-- Animated Typing Text -->
 <div style="background: linear-gradient(90deg, #0f172a, #1e293b); padding: 12px; border-radius: 8px; border: 1px solid #334155; margin: 20px auto; max-width: 700px;">
-<img src="https://readme-typing-svg.demolab.com/?lines=React+%26+Angular+Specialist;AWS+%7C+Docker+%7C+Kubernetes;Production+Ready+Applications;Cloud+Native+Development&center=true&width=650&height=32&color=60a5fa&size=20&font=Fira+Code&weight=500&duration=4000&pause=1000"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=React+%26+Angular;AWS+%7C+Docker+%7C+Kubernetes;Production+Ready+Applications;Cloud+Native+Development&center=true&width=650&height=32&color=60a5fa&size=20&font=Fira+Code&weight=500&duration=4000&pause=1000"/>
 </div>
 
 <!-- GitHub Stats -->
