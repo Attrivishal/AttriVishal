@@ -123,7 +123,7 @@ Experienced **Frontend Engineer** with expertise in **React, Angular, and modern
 </div>
 
 </div>
-## ⚡ Technical Proficiency
+⚡ Technical Proficiency
 
 ### **Frontend Mastery**
 <div align="center">
