@@ -139,45 +139,14 @@ Experienced **Frontend Engineer** with expertise in **React, Angular, and modern
 
 ## 🎯 Core Competencies
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin: 30px 0;">
-
-<div style="text-align: center;">
-  <div style="font-size: 40px; margin-bottom: 10px;">⚛️</div>
-  <div style="font-weight: 600; color: #1e40af;">React/JS</div>
-  <div style="font-size: 14px; color: #64748b;">Component Architecture</div>
-</div>
-
-<div style="text-align: center;">
-  <div style="font-size: 40px; margin-bottom: 10px;">🚀</div>
-  <div style="font-weight: 600; color: #059669;">AWS Cloud</div>
-  <div style="font-size: 14px; color: #64748b;">EC2, S3, EKS</div>
-</div>
-
-<div style="text-align: center;">
-  <div style="font-size: 40px; margin-bottom: 10px;">🐳</div>
-  <div style="font-weight: 600; color: #2563eb;">Docker</div>
-  <div style="font-size: 14px; color: #64748b;">Containerization</div>
-</div>
-
-<div style="text-align: center;">
-  <div style="font-size: 40px; margin-bottom: 10px;">☸️</div>
-  <div style="font-weight: 600; color: #2563eb;">K8s</div>
-  <div style="font-size: 14px; color: #64748b;">Orchestration</div>
-</div>
-
-<div style="text-align: center;">
-  <div style="font-size: 40px; margin-bottom: 10px;">🚦</div>
-  <div style="font-weight: 600; color: #7c3aed;">CI/CD</div>
-  <div style="font-size: 14px; color: #64748b;">GitHub Actions</div>
-</div>
-
-<div style="text-align: center;">
-  <div style="font-size: 40px; margin-bottom: 10px;">🐍</div>
-  <div style="font-weight: 600; color: #2563eb;">Python</div>
-  <div style="font-size: 14px; color: #64748b;">Backend & Scripts</div>
-</div>
-
-</div>
+<p align="center" style="font-size:15px; line-height:1.8;">
+  ⚛️ <b>React / JavaScript</b> <span style="color:#64748b;">— Component Architecture</span> &nbsp;•&nbsp;
+  🚀 <b>AWS Cloud</b> <span style="color:#64748b;">— EC2, S3, EKS</span> &nbsp;•&nbsp;
+  🐳 <b>Docker</b> <span style="color:#64748b;">— Containerization</span> &nbsp;•&nbsp;
+  ☸️ <b>Kubernetes</b> <span style="color:#64748b;">— Orchestration</span> &nbsp;•&nbsp;
+  🚦 <b>CI/CD</b> <span style="color:#64748b;">— GitHub Actions</span> &nbsp;•&nbsp;
+  🐍 <b>Python</b> <span style="color:#64748b;">— Backend & Automation</span>
+</p>
 
 ---
 
