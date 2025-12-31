@@ -2,7 +2,7 @@
 
 <!-- Professional Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(90deg,#0f172a,#1e40af,#0f172a)&height=130&section=header&text=Vishal%20Attri&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=1e40af&strokeWidth=2"/>
-
+<h2 style="color: green; text-align: center; padding: 10px; margin: 20px 0;">VISHAL ATTRI</h2>
 <!-- Title & Tagline -->
 <h3 style="color: #1e40af; margin: 20px 0 10px; font-weight: 600;">
 Frontend Engineer • Cloud & DevOps Enthusiast
