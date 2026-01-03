@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <!-- Professional Header -->
@@ -101,6 +103,22 @@ Experienced **Frontend Engineer** with expertise in **React, Angular, and modern
   <span style="background: #ede9fe; color: #7c3aed; padding: 4px 12px; border-radius: 20px; font-size: 14px;">Tailwind CSS</span>
 </div>
 </div>
+
+# 🚀 Automating AWS S3 with Python Boto3
+
+[![Hashnode Article](https://img.shields.io/badge/Read_Article-Hashnode-blue)](https://hashnode.com/post/cmjyn4ks8000002jvhuqq8ph8)
+[![Python](https://img.shields.io/badge/Python-3.x-yellow)](https://python.org)
+[![AWS](https://img.shields.io/badge/AWS-S3-orange)](https://aws.amazon.com)
+
+> Complete tutorial on automating AWS S3 with Python Boto3. Step-by-step guide with working code examples.
+
+## 📖 Article Includes
+- ✅ Creating S3 buckets programmatically
+- ✅ Handling AWS credentials securely
+- ✅ Common errors and solutions
+- ✅ Best practices for production
+
+[Read the full article on Hashnode →](https://hashnode.com/post/cmjyn4ks8000002jvhuqq8ph8)
 
 ## 📊 GitHub Analytics
 
