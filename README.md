@@ -110,7 +110,7 @@ Experienced **Frontend Engineer** with expertise in **React, Angular, and modern
 [![Python](https://img.shields.io/badge/Python-3.x-yellow)](https://python.org)
 [![AWS](https://img.shields.io/badge/AWS-S3-orange)](https://aws.amazon.com)
 
-> Complete tutorial on automating AWS S3 with Python Boto3. Step-by-step guide with working code examples.
+ Complete tutorial on automating AWS S3 with Python Boto3. Step-by-step guide with working code examples.
 
 ## 📖 Article Includes
 - ✅ Creating S3 buckets programmatically
@@ -120,27 +120,6 @@ Experienced **Frontend Engineer** with expertise in **React, Angular, and modern
 
 [Read the full article on Hashnode →](https://hashnode.com/post/cmjyn4ks8000002jvhuqq8ph8)
 
-## 📊 GitHub Analytics
-
-<div align="center" style="margin: 40px 0;">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;">
-
-<div style="flex: 1; min-width: 300px;">
-
-</div>
-
-<div style="flex: 1; min-width: 300px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Attrivishal&theme=github_dark&hide_border=true&background=0f172a&stroke=1e293b&ring=60a5fa&fire=60a5fa&currStreakNum=60a5fa&sideNums=60a5fa&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=cbd5e1" alt="GitHub Streak"/>
-</div>
-
-</div>
-
-<div style="margin-top: 20px;">
-
-</div>
-
-</div>
 ⚡ Technical Proficiency
 
 ### **Frontend Mastery**
