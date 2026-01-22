@@ -151,7 +151,7 @@ Experienced **Frontend Engineer** with expertise in **React, Angular, and modern
 - 🐳 Dockerized backend services
 - ☸️ Kubernetes-based workloads
 - 📊 Real-time monitoring & system metrics
-- 💰 AWS cost optimization tools
+
 
 
 ---
