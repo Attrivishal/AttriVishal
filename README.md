@@ -134,13 +134,6 @@ Experienced **Frontend Engineer** with expertise in **React, Angular, and modern
 
 ---
 
-## 🎯 Core Competencies
-
-<p align="center" style="font-size:15px; line-height:1.8;">
-  ⚛️ <b>React / JavaScript</b> <span style="color:#64748b;">— Component Architecture</span> &nbsp;•&nbsp;
-  🚀 <b>AWS Cloud</b> <span style="color:#64748b;">— EC2, S3, EKS</span> &nbsp;•&nbsp;
-  🐍 <b>Python</b> <span style="color:#64748b;">— Backend & Automation</span>
-</p>
 
 ---
 
