@@ -51,12 +51,6 @@ Cloud & DevOps Stack
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;"><div style="background: #f8fafc; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0;"> <div style="color: #1e40af; font-weight: 600; margin-bottom: 10px;">🚀 Production Dashboards</div> <div style="color: #475569;">Responsive, performant React/Angular applications with real-time data visualization</div> </div><div style="background: #f8fafc; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0;"> <div style="color: #1e40af; font-weight: 600; margin-bottom: 10px;">☁️ Cloud Applications</div> <div style="color: #475569;">AWS-deployed solutions with serverless architectures and auto-scaling</div> </div><div style="background: #f8fafc; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0;"> <div style="color: #1e40af; font-weight: 600; margin-bottom: 10px;">🐳 Containerized Services</div> <div style="color: #475569;">Dockerized microservices with Kubernetes orchestration</div> </div><div style="background: #f8fafc; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0;"> <div style="color: #1e40af; font-weight: 600; margin-bottom: 10px;">📊 Monitoring Systems</div> <div style="color: #475569;">Real-time monitoring dashboards with alerting and analytics</div> </div></div>
 
 <div align="center" style="margin-top: 40px; padding: 20px;">
-📬 Let's Connect & Collaborate
-
-https://img.shields.io/badge/Email-vishalattri006@gmail.com-1e40af?style=flat-square&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white
-https://img.shields.io/badge/Portfolio-Visit-1e40af?style=flat-square&logo=vercel&logoColor=white
 
 </div>
 <div align="center" style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #e2e8f0; color: #64748b; font-size: 0.9rem;">
