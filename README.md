@@ -47,8 +47,7 @@ Frontend Mastery
 <div align="center" style="margin: 25px 0;"> <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind,redux,nextjs,vite&perline=10&theme=light" /> </div>
 Cloud & DevOps Stack
 <div align="center" style="margin: 25px 0;"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,python,flask,linux,git,bash,nginx&perline=10&theme=light" /> </div>
-🛠 What I Can Build
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;"><div style="background: #f8fafc; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0;"> <div style="color: #1e40af; font-weight: 600; margin-bottom: 10px;">🚀 Production Dashboards</div> <div style="color: #475569;">Responsive, performant React/Angular applications with real-time data visualization</div> </div><div style="background: #f8fafc; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0;"> <div style="color: #1e40af; font-weight: 600; margin-bottom: 10px;">☁️ Cloud Applications</div> <div style="color: #475569;">AWS-deployed solutions with serverless architectures and auto-scaling</div> </div><div style="background: #f8fafc; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0;"> <div style="color: #1e40af; font-weight: 600; margin-bottom: 10px;">🐳 Containerized Services</div> <div style="color: #475569;">Dockerized microservices with Kubernetes orchestration</div> </div><div style="background: #f8fafc; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0;"> <div style="color: #1e40af; font-weight: 600; margin-bottom: 10px;">📊 Monitoring Systems</div> <div style="color: #475569;">Real-time monitoring dashboards with alerting and analytics</div> </div></div>
+
 
 <div align="center" style="margin-top: 40px; padding: 20px;">
 
