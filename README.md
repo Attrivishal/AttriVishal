@@ -31,15 +31,6 @@ https://img.shields.io/badge/%F0%9F%93%96_Read_Full_Article_on_Hashnode-2962FF?s
 <div style="background: #ffffff; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #3b82f6;"> Complete tutorial on automating AWS S3 operations using Python Boto3. Step-by-step guide with production-ready code examples and best practices. </div>
 Key Highlights:
 
-✅ Creating secure S3 buckets programmatically
-
-✅ Handling AWS credentials with security best practices
-
-✅ Common errors and troubleshooting solutions
-
-✅ Cost optimization strategies and lifecycle policies
-
-✅ Production deployment considerations
 
 </div>
 ⚡ Technical Proficiency
