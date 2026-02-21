@@ -6,7 +6,6 @@ Frontend Engineer • Cloud & DevOps Enthusiast
 <div style="background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%); padding: 24px; border-radius: 12px; border-left: 4px solid #1e40af; margin: 20px 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
 Experienced Frontend Engineer with strong expertise in React, Angular, and modern JavaScript frameworks, currently expanding into Cloud & DevOps technologies. Skilled at building responsive, high-performance web applications and deploying them on cloud platforms using modern DevOps practices.
 
-Core Competencies: Frontend Architecture, Cloud Deployment, Containerization, CI/CD Pipelines, and Scalable System Design.
 
 </div>
 🛠 Technical Stack
