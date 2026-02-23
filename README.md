@@ -20,12 +20,7 @@ SysPulse – DevOps Monitoring System
 <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0; margin: 20px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"> <div style="color: #1e40af; font-weight: 600; margin-bottom: 10px; font-size: 1.2rem;">🖥️ Real-Time System Monitoring Dashboard</div> <div style="color: #475569; margin-bottom: 15px; line-height: 1.6;"> Production-grade monitoring solution with live metrics visualization, automated alerting, and Dockerized deployment. Features real-time system analytics and performance tracking. </div> <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px;"> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">Python</span> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">Flask</span> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">Docker</span> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">AWS EKS</span> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">React</span> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">Tailwind CSS</span> </div> </div>
 AWS Cost Optimization Platform
 Frontend Component Library
-📝 Featured Technical Writing
-<div style="background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%); padding: 20px; border-radius: 12px; margin: 30px 0; border: 1px solid #7dd3fc;">
-🚀 Automating AWS S3 with Python Boto3
-https://img.shields.io/badge/%F0%9F%93%96_Read_Full_Article_on_Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 
-<div style="background: #ffffff; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #3b82f6;"> Complete tutorial on automating AWS S3 operations using Python Boto3. Step-by-step guide with production-ready code examples and best practices. </div>
 Key Highlights:
 
 
