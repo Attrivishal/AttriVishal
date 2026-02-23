@@ -30,11 +30,6 @@ Key Highlights:
 
 
 </div>
-⚡ Technical Proficiency
-Frontend Mastery
-<div align="center" style="margin: 25px 0;"> <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind,redux,nextjs,vite&perline=10&theme=light" /> </div>
-Cloud & DevOps Stack
-<div align="center" style="margin: 25px 0;"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,python,flask,linux,git,bash,nginx&perline=10&theme=light" /> </div>
 
 
 <div align="center" style="margin-top: 40px; padding: 20px;">
