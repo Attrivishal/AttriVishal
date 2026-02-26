@@ -21,7 +21,6 @@ SysPulse – DevOps Monitoring System
 AWS Cost Optimization Platform
 Frontend Component Library
 
-Key Highlights:
 
 
 </div>
