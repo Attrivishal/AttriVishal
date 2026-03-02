@@ -19,10 +19,6 @@ Tools & Platforms
 SysPulse – DevOps Monitoring System
 <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0; margin: 20px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"> <div style="color: #1e40af; font-weight: 600; margin-bottom: 10px; font-size: 1.2rem;">🖥️ Real-Time System Monitoring Dashboard</div> <div style="color: #475569; margin-bottom: 15px; line-height: 1.6;"> Production-grade monitoring solution with live metrics visualization, automated alerting, and Dockerized deployment. Features real-time system analytics and performance tracking. </div> <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px;"> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">Python</span> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">Flask</span> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">Docker</span> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">AWS EKS</span> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">React</span> <span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 14px; font-weight: 500;">Tailwind CSS</span> </div> </div>
 AWS Cost Optimization Platform
-Frontend Component Library
-
-
-
 </div>
 
 
