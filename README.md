@@ -10,7 +10,3 @@ Experienced Frontend Engineer with strong expertise in React, Angular, and moder
 </div>
 
 </div>
-<div align="center" style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #e2e8f0; color: #64748b; font-size: 0.9rem;">
-Made with ❤️ by Vishal Attri • Last Updated: January 2025
-
-</div>
