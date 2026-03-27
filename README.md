@@ -1,7 +1,9 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a66c2&height=100&section=header"/>
+</div>
 
+<div align="center">
+  
 # 🚀 Vishal Attri
 ### ☁️ Cloud Engineer (Aspirant) | 💻 Full Stack Developer
 
@@ -18,57 +20,38 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 💻 BCA Student | Cloud Enthusiast | Full Stack Developer  
-- 🌱 Currently learning AWS & System Design  
-- 🎯 Goal: Become a Cloud Engineer building scalable solutions  
-- ⚡ I enjoy solving real-world problems using technology  
+💻 BCA Student | Cloud Enthusiast | Full Stack Developer  
+🌱 Currently learning AWS & System Design  
+🎯 Goal: Become a Cloud Engineer building scalable solutions  
+⚡ I enjoy solving real-world problems using technology
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Development
-- React.js  
-- Next.js  
-- Node.js  
-- Express.js  
+React.js | Next.js | Node.js | Express.js
 
 ### 🗄️ Database
-- MongoDB  
+MongoDB
 
 ### 🎨 Frontend
-- HTML  
-- CSS  
-- Tailwind CSS  
+HTML | CSS | Tailwind CSS
 
 ### ☁️ Cloud & Tools
-- AWS (Lambda, API Gateway – basics)  
-- Git & GitHub  
-- Postman  
-- VS Code  
+AWS (Lambda, API Gateway – basics) | Git & GitHub | Postman | VS Code
 
 ---
 
 ## 📂 Projects
 
 ### 🔹 PipelineIQ — CRM & Lead Management System
-- Built a full-stack application to manage leads  
-- Implemented pipeline tracking for lead stages  
-- Developed REST APIs for CRUD operations  
-- Added JWT authentication for secure login  
-
-🔗 https://github.com/Attrivishal/pipelineiq  
-
----
+Built a full-stack application to manage leads | Implemented pipeline tracking for lead stages | Developed REST APIs for CRUD operations | Added JWT authentication for secure login  
+🔗 https://github.com/Attrivishal/pipelineiq
 
 ### 🔹 Cloud Intelligence Platform — Cost Optimization Dashboard
-- Built a dashboard to monitor cloud usage  
-- Identifies unused resources and reduces cost  
-- Developed backend APIs for data processing  
-- Focused on cloud efficiency and optimization  
-
-🔗 https://github.com/Attrivishal/cloud-intelligence  
+Built a dashboard to monitor cloud usage | Identifies unused resources and reduces cost | Developed backend APIs for data processing | Focused on cloud efficiency and optimization  
+🔗 https://github.com/Attrivishal/cloud-intelligence
 
 ---
 
@@ -81,10 +64,7 @@
 ---
 
 ## 🎯 Current Focus
-
-- Learning Cloud Computing ☁️  
-- Improving Backend & APIs  
-- Building scalable applications  
+Learning Cloud Computing ☁️ | Improving Backend & APIs | Building scalable applications
 
 ---
 
@@ -102,10 +82,7 @@
 ---
 
 ## 💡 My Philosophy
-
 > “Build with code. Optimize with cloud. Scale with purpose.”
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a66c2&height=80&section=footer"/>
