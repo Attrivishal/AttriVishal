@@ -36,7 +36,6 @@
 
 ### 🗄️ Database
 - MongoDB  
-- MySQL  
 
 ### 🎨 Frontend
 - HTML  
