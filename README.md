@@ -1,12 +1,82 @@
-🚀 Vishal Attri
-Frontend Engineer • Cloud & DevOps Enthusiast
+# 🚀 Vishal Attri
+### ☁️ Cloud Engineer (Aspirant) | 💻 Full Stack Developer
 
-<div align="center"><!-- Professional Header --><img src="https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(90deg,#0f172a,#1e40af,#0f172a)&height=130&section=header&text=Vishal%20Attri&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=1e40af&strokeWidth=2"/><h2 style="color: #1e40af; text-align: center; padding: 10px; margin: 20px 0; font-size: 2.5rem;">VISHAL ATTRI</h2><h3 style="color: #3b82f6; margin: 20px 0 10px; font-weight: 600; font-size: 1.5rem;"> Frontend Engineer • Cloud & DevOps Enthusiast </h3><p style="color: #64748b; max-width: 800px; margin: 0 auto 20px; line-height: 1.6; font-size: 1.1rem;"> Building scalable applications with React, Angular, and cloud technologies. Passionate about creating efficient, user-friendly solutions. </p><!-- Animated Typing Text --><div style="background: linear-gradient(90deg, #0f172a, #1e293b); padding: 12px; border-radius: 8px; border: 1px solid #334155; margin: 20px auto; max-width: 700px;"> <img src="https://readme-typing-svg.demolab.com/?lines=React+%26+Angular+Developer;AWS+%7C+Docker+%7C+Kubernetes;Building+Production+Applications;Cloud+Native+Development&center=true&width=650&height=32&color=60a5fa&size=20&font=Fira+Code&weight=500&duration=4000&pause=1000"/> </div><!-- GitHub Stats --><div style="display: flex; gap: 15px; justify-content: center; margin: 20px 0; flex-wrap: wrap;"> <img src="https://komarev.com/ghpvc/?username=Attrivishal&label=Profile%20Views&color=1e40af&style=flat-square&labelColor=0f172a"/> <img src="https://img.shields.io/github/followers/Attrivishal?label=GitHub%20Followers&color=2563eb&style=flat-square&labelColor=0f172a"/> <img src="https://img.shields.io/badge/Open%20to%20Work-2563eb?style=flat-square&labelColor=0f172a"/> <img src="https://img.shields.io/badge/Available%20for%20Projects-10B981?style=flat-square&labelColor=0f172a"/> </div></div><!-- Divider --><div style="height: 2px; background: linear-gradient(90deg, transparent, #1e40af, transparent); margin: 30px 0;"></div>
-👨‍💻 Professional Summary
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%); padding: 24px; border-radius: 12px; border-left: 4px solid #1e40af; margin: 20px 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+---
 
+## 👨‍💻 About Me
 
+I'm a BCA student with a strong interest in cloud computing and scalable system design. I enjoy building real-world applications and understanding how systems work end-to-end — from frontend to cloud infrastructure.
 
-</div>
+I have hands-on experience in full-stack development and am actively exploring cloud technologies to build efficient and cost-optimized solutions.
 
-</div>
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **☁️ Cloud & Infrastructure** | AWS (Lambda, API Gateway, EC2, S3), Serverless Architecture, Cloud Cost Optimization |
+| **💻 Backend Development** | Node.js, Express.js, REST APIs, Authentication, Middleware |
+| **🎨 Frontend Development** | React.js, Next.js, HTML, CSS, Tailwind CSS |
+| **🗄️ Database** | MongoDB, Mongoose, MySQL |
+| **⚙️ Tools & Version Control** | Git, GitHub, Postman, VS Code, npm, Vite |
+
+---
+
+## 📂 Projects
+
+### 🔹 PipelineIQ — CRM & Lead Management System
+- Built a full-stack CRM application to manage leads and workflows
+- Implemented pipeline tracking for lead stages
+- Developed REST APIs for seamless data management
+- Added JWT authentication for secure access
+- Designed frontend with React.js and Tailwind CSS
+- Used MongoDB for flexible data storage
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT
+
+---
+
+### 🔹 Cloud Intelligence Platform — Cost Optimization Dashboard
+- Built a system to monitor cloud resource usage (EC2, S3, Lambda)
+- Identifies unused or inefficient resources
+- Provides actionable insights to reduce infrastructure costs
+- Implemented backend APIs for data processing
+- Designed dashboard for visualizing cost-saving opportunities
+
+**Tech Stack:** Node.js, React.js, AWS SDK, REST APIs
+
+---
+
+## 🎯 Current Focus
+- Learning cloud technologies and system design
+- Building cloud-based applications and dashboards
+- Improving backend and API design skills
+- Working toward AWS Certification
+
+---
+
+## 📈 GitHub Stats
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Attrivishal&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Attrivishal&layout=compact&theme=dark)
+
+---
+
+## 📫 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| **LinkedIn** | [linkedin.com/in/vishalattri](https://linkedin.com/in/vishalattri) |
+| **GitHub** | [github.com/Attrivishal](https://github.com/Attrivishal) |
+
+---
+
+## 💡 Career Goal
+
+To start my career as a Cloud Engineer and build scalable, efficient, and cost-optimized systems that solve real-world problems.
+
+---
+
+*Open to opportunities, collaborations, and cloud engineering roles.*
