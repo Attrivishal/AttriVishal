@@ -1,82 +1,114 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a66c2&height=100&section=header"/>
+
 # 🚀 Vishal Attri
 ### ☁️ Cloud Engineer (Aspirant) | 💻 Full Stack Developer
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=0a66c2&center=true&width=500&lines=Cloud+Engineer+in+the+making;Full+Stack+Developer;Building+scalable+systems;Always+learning+new+things!" />
+</p>
+
+[![GitHub followers](https://img.shields.io/github/followers/Attrivishal?style=for-the-badge&logo=github&color=0a66c2)](https://github.com/Attrivishal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishalattri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-ff6b6b?style=for-the-badge&logo=google-chrome)](https://github.com/Attrivishal)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a BCA student with a strong interest in cloud computing and scalable system design. I enjoy building real-world applications and understanding how systems work end-to-end — from frontend to cloud infrastructure.
-
-I have hands-on experience in full-stack development and am actively exploring cloud technologies to build efficient and cost-optimized solutions.
+- 💻 BCA Student | Cloud Enthusiast | Full Stack Developer  
+- 🌱 Currently learning AWS & System Design  
+- 🎯 Goal: Become a Cloud Engineer building scalable solutions  
+- ⚡ I enjoy solving real-world problems using technology  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **☁️ Cloud & Infrastructure** | AWS (Lambda, API Gateway, EC2, S3), Serverless Architecture, Cloud Cost Optimization |
-| **💻 Backend Development** | Node.js, Express.js, REST APIs, Authentication, Middleware |
-| **🎨 Frontend Development** | React.js, Next.js, HTML, CSS, Tailwind CSS |
-| **🗄️ Database** | MongoDB, Mongoose, MySQL |
-| **⚙️ Tools & Version Control** | Git, GitHub, Postman, VS Code, npm, Vite |
+### 💻 Development
+- React.js  
+- Next.js  
+- Node.js  
+- Express.js  
+
+### 🗄️ Database
+- MongoDB  
+- MySQL  
+
+### 🎨 Frontend
+- HTML  
+- CSS  
+- Tailwind CSS  
+
+### ☁️ Cloud & Tools
+- AWS (Lambda, API Gateway – basics)  
+- Git & GitHub  
+- Postman  
+- VS Code  
 
 ---
 
 ## 📂 Projects
 
 ### 🔹 PipelineIQ — CRM & Lead Management System
-- Built a full-stack CRM application to manage leads and workflows
-- Implemented pipeline tracking for lead stages
-- Developed REST APIs for seamless data management
-- Added JWT authentication for secure access
-- Designed frontend with React.js and Tailwind CSS
-- Used MongoDB for flexible data storage
+- Built a full-stack application to manage leads  
+- Implemented pipeline tracking for lead stages  
+- Developed REST APIs for CRUD operations  
+- Added JWT authentication for secure login  
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT
+🔗 https://github.com/Attrivishal/pipelineiq  
 
 ---
 
 ### 🔹 Cloud Intelligence Platform — Cost Optimization Dashboard
-- Built a system to monitor cloud resource usage (EC2, S3, Lambda)
-- Identifies unused or inefficient resources
-- Provides actionable insights to reduce infrastructure costs
-- Implemented backend APIs for data processing
-- Designed dashboard for visualizing cost-saving opportunities
+- Built a dashboard to monitor cloud usage  
+- Identifies unused resources and reduces cost  
+- Developed backend APIs for data processing  
+- Focused on cloud efficiency and optimization  
 
-**Tech Stack:** Node.js, React.js, AWS SDK, REST APIs
-
----
-
-## 🎯 Current Focus
-- Learning cloud technologies and system design
-- Building cloud-based applications and dashboards
-- Improving backend and API design skills
-- Working toward AWS Certification
+🔗 https://github.com/Attrivishal/cloud-intelligence  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Attrivishal&show_icons=true&theme=dark)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Attrivishal&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Attrivishal&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Attrivishal&layout=compact&theme=dark)
+---
+
+## 🎯 Current Focus
+
+- Learning Cloud Computing ☁️  
+- Improving Backend & APIs  
+- Building scalable applications  
 
 ---
 
 ## 📫 Connect With Me
 
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | [linkedin.com/in/vishalattri](https://linkedin.com/in/vishalattri) |
-| **GitHub** | [github.com/Attrivishal](https://github.com/Attrivishal) |
+<p align="center">
+  <a href="https://linkedin.com/in/vishalattri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Attrivishal">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 💡 Career Goal
+## 💡 My Philosophy
 
-To start my career as a Cloud Engineer and build scalable, efficient, and cost-optimized systems that solve real-world problems.
+> “Build with code. Optimize with cloud. Scale with purpose.”
 
 ---
 
-*Open to opportunities, collaborations, and cloud engineering roles.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a66c2&height=80&section=footer"/>
+</p>
